@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
 <h3 align="center">A passionate Android developer from Egypt</h3>
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/73899326?v=4" alt="profile photo" height=33% width=33%/>
-</p>
-
 - 🔭 I’m currently working on an app through which I can apply most of the topics I learnt and use the best recommended tools
 - 🌱 I’m currently learning new topics in Kotlin and Android
 - 👯 I’m looking to collaborate on innovative applications
