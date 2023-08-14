@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android developer from Egypt</h3>
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/73899326?v=4" alt="profile photo"/>
+<img src="https://avatars.githubusercontent.com/u/73899326?v=4" alt="profile photo" height=33% width=33%/>
 </p>
 
 - 🔭 I’m currently working on building Android apps using best approaches
