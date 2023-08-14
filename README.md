@@ -5,7 +5,7 @@
 <img src="https://avatars.githubusercontent.com/u/73899326?v=4" alt="profile photo" height=33% width=33%/>
 </p>
 
-- 🔭 I’m currently working on building Android apps using best approaches
+- 🔭 I’m currently working on an app through which I can apply most of the topics I learnt and use the best recommended tools
 - 🌱 I’m currently learning new topics in Kotlin and Android
 - 👯 I’m looking to collaborate on innovative applications
 
