@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
-<h3 align="center">A passionate Android developer and a master's student in the UK</h3>
+<h3 align="center">A passionate Android developer and a master's graduate in the UK</h3>
 
 <br>
 
